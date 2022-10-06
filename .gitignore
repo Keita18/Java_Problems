@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Topics/Comparable/Leaderboard/out/
+/Topics/Comparable/Leaderboard/out/production/classes/
+/Topics/Comparable/Ratings/out/
+/Topics/Comparable/Ratings/out/production/classes/
+/Topics/The Collections Framework overview/Blacklist/out/
+/Topics/The Collections Framework overview/Blacklist/out/production/classes/
+/Topics/The Collections Framework overview/Squares list/out/
+/Topics/The Collections Framework overview/Squares list/out/production/classes/
+/Topics/The List interface/Companies/out/
+/Topics/The List interface/Companies/out/production/classes/
+/Topics/The List interface/The longest string in the list/out/
+/Topics/The List interface/The longest string in the list/out/production/classes/
