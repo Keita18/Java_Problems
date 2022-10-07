@@ -8,19 +8,32 @@ class Time {
 
     public static Time noon() {
         // write your code here
-
+        return of(12, 0, 0);
     }
 
     public static Time midnight() {
         // write your code here
+        return of(0, 0, 0);
     }
 
     public static Time ofSeconds(long seconds) {
         // write your code here
+        long second = seconds % 60;
+        var minute = (seconds % 3600) /60;
+        var hour = seconds / 3600;
+        if (hour > 23) hour = hour % 24;
+        return of((int) hour, (int) minute, (int) second);
     }
 
     public static Time of(int hour, int minute, int second) {
         // write your code here
+        if (hour > 23 || hour < 0 ||minute > 59 || minute < 0 || second > 59 || second < 0)
+            return null;
+        Time time = new Time();
+        time.hour = hour;
+        time.minute = minute;
+        time.second = second;
+        return time;
     }
 }
 
