@@ -1,3 +1,5 @@
 content:
 - Theory
 - Static factory methods for Time
+- Motor static factory
+- Clock factory
