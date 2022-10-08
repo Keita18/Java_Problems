@@ -6,3 +6,6 @@ content:
 - Factory method
 - Strategy
 - Template method
+- Anonymous classes
+- Default methods
+- Lambda expressions

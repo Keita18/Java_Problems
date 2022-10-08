@@ -10,12 +10,20 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/An anonymous class with three methods" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Implement Runnable" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/String reverser" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Addresses" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Leaderboard" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Ratings" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Value class" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Add new default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Implement a default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Theory" />
             <option value="$PROJECT_DIR$/Topics/Encapsulating object creation/Clock factory" />
             <option value="$PROJECT_DIR$/Topics/Encapsulating object creation/Motor static factory" />
             <option value="$PROJECT_DIR$/Topics/Encapsulating object creation/Static factory methods for Time" />
@@ -24,6 +32,9 @@
             <option value="$PROJECT_DIR$/Topics/Factory method/Laptop store" />
             <option value="$PROJECT_DIR$/Topics/Factory method/Robot factory" />
             <option value="$PROJECT_DIR$/Topics/Factory method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
             <option value="$PROJECT_DIR$/Topics/Strategy/Max and Min" />
             <option value="$PROJECT_DIR$/Topics/Strategy/Theory" />
             <option value="$PROJECT_DIR$/Topics/Template method/Build a house" />
