@@ -9,3 +9,5 @@ content:
 - Anonymous classes
 - Default methods
 - Lambda expressions
+- The Set interface
+- Custom exceptions

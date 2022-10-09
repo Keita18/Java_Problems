@@ -6,6 +6,9 @@ public class Main {
 
     public static <T> void applyFunction(T[] array, Function<T, T> func) {
         // write your code here
+        for (int i = 0 ; i < array.length ; i++) {
+           array[i] = func.apply(array[i]);
+        }
     }
 
     // do not change code below

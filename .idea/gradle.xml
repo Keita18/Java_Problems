@@ -20,6 +20,8 @@
             <option value="$PROJECT_DIR$/Topics/Comparable/Ratings" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Value class" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Square class" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Theory" />
             <option value="$PROJECT_DIR$/Topics/Default methods/Add new default method" />
             <option value="$PROJECT_DIR$/Topics/Default methods/Implement a default method" />
             <option value="$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem" />
@@ -32,6 +34,7 @@
             <option value="$PROJECT_DIR$/Topics/Factory method/Laptop store" />
             <option value="$PROJECT_DIR$/Topics/Factory method/Robot factory" />
             <option value="$PROJECT_DIR$/Topics/Factory method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Apply function to all elements" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Next even number" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
@@ -49,6 +52,8 @@
             <option value="$PROJECT_DIR$/Topics/The List interface/Companies" />
             <option value="$PROJECT_DIR$/Topics/The List interface/The longest string in the list" />
             <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
