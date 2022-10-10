@@ -18,7 +18,7 @@ class Main {
         try {
             Square square = new Square(a);
         } catch (SquareSizeException e) {
-            System.out.println("zero or negative size " + e);
+            System.out.println("zero or negative size");
         }
 
     }
