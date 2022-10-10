@@ -12,3 +12,7 @@ content:
 - The Set interface
 - Custom exceptions
 - Input streams
+- Functional interfaces
+- Standard functional interfaces
+- Optional
+- Comparator

@@ -20,6 +20,10 @@
             <option value="$PROJECT_DIR$/Topics/Comparable/Ratings" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comparable/Value class" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Most valuable items" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Multiple fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Odd and even" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
             <option value="$PROJECT_DIR$/Topics/Custom exceptions/DriverNotReadyException" />
             <option value="$PROJECT_DIR$/Topics/Custom exceptions/Square class" />
             <option value="$PROJECT_DIR$/Topics/Custom exceptions/Theory" />
@@ -35,6 +39,9 @@
             <option value="$PROJECT_DIR$/Topics/Factory method/Laptop store" />
             <option value="$PROJECT_DIR$/Topics/Factory method/Robot factory" />
             <option value="$PROJECT_DIR$/Topics/Factory method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/A lambda expression with seven arguments" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Ternary predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Theory" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Convert to bytes" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Count words" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Theory" />
@@ -42,6 +49,13 @@
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Creating a closure" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Next even number" />
             <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Check an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Create an Optional value" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Sum up optional values" />
+            <option value="$PROJECT_DIR$/Topics/Optional/The address book" />
+            <option value="$PROJECT_DIR$/Topics/Optional/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/Standard functional interfaces/Theory" />
             <option value="$PROJECT_DIR$/Topics/Strategy/Max and Min" />
             <option value="$PROJECT_DIR$/Topics/Strategy/Theory" />
             <option value="$PROJECT_DIR$/Topics/Template method/Build a house" />

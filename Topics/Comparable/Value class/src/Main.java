@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-class Age implements Comparable<Age> {
+class Age implements Comparable<Age>, Comparator<Age> {
     private final int value;
 
     public Age(int value) {
@@ -15,6 +15,16 @@ class Age implements Comparable<Age> {
     @Override
     public int compareTo(Age o) {
         return Integer.compare(this.value, o.value);
+    }
+
+    @Override
+    public int compare(Age o1, Age o2) {
+        return 0;
+    }
+
+    @Override
+    public Comparator<Age> reversed() {
+        return Comparator.super.reversed();
     }
 }
 
