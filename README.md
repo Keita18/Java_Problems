@@ -1,0 +1,3 @@
+# Java_Problems
+
+This module contains multiple java problems such as Collections, lambda expressions, Patterns, Algorithm, Data Structures, Java JUnit Testing, Mockito Testing ...
