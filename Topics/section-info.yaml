@@ -16,3 +16,9 @@ content:
 - Standard functional interfaces
 - Optional
 - Comparator
+- Reduction methods
+- Functional data processing with streams
+- Collectors
+- Runtime type checking
+- LocalTime
+- LocalDate

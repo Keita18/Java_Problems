@@ -1,0 +1,7 @@
+content:
+- Theory
+- Millisecond precision
+- Seconds between two time points
+- Representing the same time
+- Methods of LocalTime
+- Return time without seconds
